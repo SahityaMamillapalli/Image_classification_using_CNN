@@ -7,4 +7,5 @@ Just for learning and knowing the things how to do build the CNN model I did thi
 3. Matplotlib
 
 **How this skills helps in my feature works:
-1. I learn the feature extraction related to images
+1. I learn how to get  feature extraction related to images
+2. To solve complex image processing problems in collaboration with Data Scientists.
